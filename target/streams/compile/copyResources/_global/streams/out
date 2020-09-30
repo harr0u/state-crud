@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/marka/Documents/projects/state/src/main/resources/logback.xml,/Users/marka/Documents/projects/state/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/marka/Documents/projects/state/src/main/resources/META-INF/native-image/com/marka/state/reflect-config.json,/Users/marka/Documents/projects/state/target/scala-2.13/classes/META-INF/native-image/com/marka/state/reflect-config.json)[0m
